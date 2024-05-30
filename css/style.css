@@ -126,6 +126,7 @@ body {
   min-height: 600px;
   height: 100vh;
   min-width: 280px;
+  
 }
 /* только для скринридера */
 .visually-hidden {
